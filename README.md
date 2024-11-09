@@ -1,6 +1,6 @@
-<center>
+<div align="center">
 <img src="logo-little.png" alt="示例图片" width="100" height="80">
-</center>
+</div>
 
 demo为鱼皮面试鸭拆解功能，可供快速开发进行使用。
 
